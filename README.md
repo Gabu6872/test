@@ -1,2 +1,2 @@
 # test
-Used for testing purposes
+Used for testing purposes in GitHub
