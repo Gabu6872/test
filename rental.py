@@ -26,6 +26,7 @@ def rental():
     print("Trash charges\t\t\t"+ sign + str(trash_charges))
     print("Water charges\t\t\t"+ sign + str(water_charges))
     print("Late fees charged\t\t"+ sign + str(late_fees))
+    print("For those who have paid late, please call me ASAP")
 
     total = monthly_rent + trash_charges + water_charges + late_fees
 
