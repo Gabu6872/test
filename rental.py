@@ -29,6 +29,6 @@ def rental():
 
     total = monthly_rent + trash_charges + water_charges + late_fees
 
-    print(f"\nTotal due for {month}\t{sign}{total}")    # outputs the total amount to be paid
+    print(f"\nTotal due for {month}\t{sign}{total}")   # outputs the total amount to be paid
 
 rental()
